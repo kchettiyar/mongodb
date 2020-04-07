@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"DTagService.pageDetails"},{"v":{"$numberInt":"2"},"key":{"pageData.routeName":{"$numberDouble":"1.0"},"pageData.tagIdList":{"$numberDouble":"1.0"}},"name":"pageData.routeName_1_pageData.tagIdList_1","ns":"DTagService.pageDetails"}],"uuid":"5848e0ea32db4306971d99f18f360a37"}
