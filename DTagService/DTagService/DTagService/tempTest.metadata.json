@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"DTagService.tempTest"}],"uuid":"6381f0ab7d6349fcae78a71a07005349"}

@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"DTagService.soapModel"}],"uuid":"7b859a63e4054d31b54c2dded305fb1a"}
