@@ -9,3 +9,7 @@ sdfsdfsdfsd
 dsfdsfsdf sdfsdfssfd
 
 ## committed
+
+## Staging area
+
+## Working area
