@@ -12,7 +12,5 @@ dsfdsfsdf sdfsdfssfd
 
 ## Staging area
 
-## Working area
-
 ### Copyright
 2020 Chettiyar & Co.
