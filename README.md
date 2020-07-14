@@ -10,6 +10,7 @@ sdfsdfsdfsd
 dsfdsfsdf sdfsdfssfd
 
 ## committed
+Test 1
 
 ## Staging area
 
