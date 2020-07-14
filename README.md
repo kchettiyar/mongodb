@@ -1,4 +1,5 @@
 # mongodb
+<!-- Copy Right changes -->
 Mongo Database
 
 ## Purpose
@@ -13,3 +14,6 @@ dsfdsfsdf sdfsdfssfd
 ## Staging area
 
 ## Working area
+
+### Copyright
+2020 Chettiyar & Co.
