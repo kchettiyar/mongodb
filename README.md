@@ -5,13 +5,11 @@ Mongo Database Mongo Database Mongo Database Mongo Database
 
 ## Purpose
 
-Purpose Purpose Purpose Purpose
-Purpose Purpose Purpose Purpose
+Purpose Purpose
+Purpose Purpose
 
 ## Deployment
-
-Deployment Deployment Deployment Deployment
-Deployment Deployment Deployment Deployment
+dsfdsfsdf sdfsdfssfd
 
 ### Copyright
 2020 Chettiyar & Co.
