@@ -10,7 +10,5 @@ dsfdsfsdf sdfsdfssfd
 
 ## committed
 
-## Staging area
-
 ### Copyright
 2020 Chettiyar & Co.
