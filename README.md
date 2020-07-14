@@ -1,5 +1,5 @@
 # mongodb
-mongodb
+Mongo Database
 
 ## Purpose
 
