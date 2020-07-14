@@ -13,6 +13,7 @@ dsfdsfsdf sdfsdfssfd
 Test 1
 
 ## Staging area
+Test 2
 
 ## Working area
 
