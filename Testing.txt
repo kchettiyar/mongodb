@@ -1,11 +1,11 @@
 Test 1
-We are testing "Test 1". I am tesing using origin/develop branch
+We are testing "Test 1". I am tesing using develop branch
 
 Test 2
 We are testing "Test 2". I am tesing using develop branch
 
 Test 3
-We are testing "Test 3". I am tesing using origin/develop branch
+We are testing "Test 3". I am tesing using bigt branch
 
 Test 4
 We are testing "Test 4". I am tesing using develop branch
