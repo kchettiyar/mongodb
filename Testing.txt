@@ -1,5 +1,5 @@
 Test 1
-We are testing "Test 1". I am tesing using bigt branch. I am adding another commits.
+We are testing "Test 1". I am tesing using bigt branch. I am adding another commits. Testing Stash
 
 Test 2
 We are testing "Test 2". I am tesing using develop branch
