@@ -2,16 +2,16 @@ Test 1
 We are testing "Test 1". I am tesing using origin/develop branch
 
 Test 2
-We are testing "Test 2". I am tesing using origin/develop branch
+We are testing "Test 2". I am tesing using develop branch
 
 Test 3
 We are testing "Test 3". I am tesing using origin/develop branch
 
 Test 4
-We are testing "Test 4". I am tesing using origin/develop branch
+We are testing "Test 4". I am tesing using develop branch
 
 Test 5
 We are testing "Test 5". I am tesing using origin/develop branch
 
 Test 6
-We are testing "Test 6". I am tesing using origin/develop branch
+We are testing "Test 6". I am tesing using develop branch
